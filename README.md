@@ -38,7 +38,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/harshita2234/mern-chat.git
+   git clone https://github.com/AyushmaanDash/Mern-chat-app.git
    cd mern-chat
    ```
 
